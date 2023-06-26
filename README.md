@@ -1,16 +1,11 @@
 # quiz_app
+## Screenshots
 
-A new Flutter project.
+- Beautiful UI
+- Stateful & Stateless definations
+- Reset capability
+- List shuffles
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://github.com/Saif64s/flutter-Quiz_app/blob/main/ss/Screenshot%202023-06-26%20at%2013.10.30.png" width="320" height="640">
+<img src="https://github.com/Saif64s/flutter-Quiz_app/blob/main/ss/Screenshot%202023-06-26%20at%2013.10.41.png" width="320" height="640">
+<img src="https://github.com/Saif64s/flutter-Quiz_app/blob/main/ss/Screenshot%202023-06-26%20at%2013.10.55.png" width="320" height="640">
